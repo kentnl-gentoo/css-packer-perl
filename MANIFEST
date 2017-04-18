@@ -1,21 +1,7 @@
-.cvsignore
-.gitignore
 Changes
-inc/Module/AutoInstall.pm
-inc/Module/Install.pm
-inc/Module/Install/AutoInstall.pm
-inc/Module/Install/Base.pm
-inc/Module/Install/Can.pm
-inc/Module/Install/Fetch.pm
-inc/Module/Install/Include.pm
-inc/Module/Install/Makefile.pm
-inc/Module/Install/Metadata.pm
-inc/Module/Install/Win32.pm
-inc/Module/Install/WriteAll.pm
 lib/CSS/Packer.pm
 Makefile.PL
 MANIFEST
-META.yml
 README.md
 t/00-load.t
 t/01-interface.t
@@ -36,3 +22,5 @@ t/stylesheets/s6-expected.css
 t/stylesheets/s6.css
 t/stylesheets/s7-expected.css
 t/stylesheets/s7.css
+META.yml                                 Module YAML meta-data (added by MakeMaker)
+META.json                                Module JSON meta-data (added by MakeMaker)
